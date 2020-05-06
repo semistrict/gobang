@@ -1,3 +1,10 @@
+This repository is licensed under the AGPL for now.
+If this is a problem, please get in touch and we can discuss relicencing.
+
+https://www.gnu.org/licenses/agpl-3.0.en.html
+
+Original Go code is available under this license:
+
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
